@@ -1,6 +1,3 @@
-# `xo`
-[![Travis](https://img.shields.io/travis/ezekg/xo.svg?style=flat-square)](https://travis-ci.org/ezekg/xo)
-
 `xo` is a command line utility that composes regular expression match groups.
 
 ```bash

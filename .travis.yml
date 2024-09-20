@@ -1,9 +1,0 @@
-language: go
-go:
-  - 1.5.1
-  - tip
-sudo: false
-script:
-  - go vet
-  - go test -v
-  - go test -race
