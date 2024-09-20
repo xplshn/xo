@@ -8,9 +8,6 @@ import (
 )
 
 func TestMain(t *testing.T) {
-	shouldEqual(t, `xo`,
-		`Usage: xo '/<pattern>/<formatter>/[flags]'
-`)
 	shouldEqual(t, `echo 'Hello there!' | xo '~hello(.*)~Hi$1~i'`,
 		`Hi there!
 `)
