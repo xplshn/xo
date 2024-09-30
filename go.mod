@@ -1,4 +1,4 @@
-module xo
+module github.com/xplshn/xo
 
 go 1.23.1
 
