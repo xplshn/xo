@@ -19,7 +19,7 @@ If you would like to grab a precompiled binary, head over to the [releases](http
 page. The precompiled `xo` binaries have no external dependencies.
 
 ```
-go get github.com/ezekg/xo
+go install github.com/xplshn/xo@master
 ```
 
 ## Usage
